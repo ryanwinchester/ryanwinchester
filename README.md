@@ -17,12 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<a href="https://github.com/ryanwinchester" style="text-decoration: none !important;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanwinchester&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</a>
-
-
-<a href="https://github.com/ryanwinchester" style="text-decoration: none !important;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwinchester&layout=compact&theme=radical&hide_border=true&count_private=true" />
-</a>
+| <a href="https://github.com/ryanwinchester" style="text-decoration: none !important;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanwinchester&show_icons=true&theme=radical&hide_border=true&count_private=true" /></a> | <a href="https://github.com/ryanwinchester" style="text-decoration: none !important;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwinchester&layout=compact&theme=radical&hide_border=true&count_private=true" /></a> |
+| ------------- | ------------- |
