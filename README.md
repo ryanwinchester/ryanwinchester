@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | <a href="https://github.com/ryanwinchester" style="text-decoration: none !important;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanwinchester&show_icons=true&theme=radical&hide_border=true&count_private=true" /></a> | <a href="https://github.com/ryanwinchester" style="text-decoration: none !important;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwinchester&layout=compact&theme=radical&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
 
-Building cool things with:
+Building and deploying cool things with:
 
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
  ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
@@ -35,8 +35,6 @@ Building cool things with:
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
  ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
