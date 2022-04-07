@@ -2,7 +2,7 @@
 
 I'm a passionate backend software developer who loves learning and building new things. I love open-source and collaborating. You can sometimes find me streaming on Twitch under the **Software & Game Development** category.
 
-I mostly use Elixir with the sometimes necessary JavaScript/TypeScript for frontend things. However, I'm also interested in learning Rust, Go, and game development, and will probably stream part of those journeys as well.
+I mostly use Elixir with sometimes-necessary JavaScript/TypeScript for frontend things. However, I'm also interested in learning Rust, Go, and game development, and will probably stream part of those journeys as well.
 
 <!--
 **ryanwinchester/ryanwinchester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
