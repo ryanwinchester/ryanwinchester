@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello, World! 🤓
 
 I'm a passionate software developer who loves learning and building new things. I love open-source and collaborating. You can sometimes find me streaming on Twitch under the **Software & Game Development** category.
 
