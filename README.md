@@ -6,6 +6,6 @@ I mostly use Elixir with sometimes-necessary JavaScript/TypeScript for frontend 
 
 Find me also, on:
 
-[![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](http://twitch.tv/shyryan)
+[![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](http://twitch.tv/ryanwinchester_tv)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanwinchester/)
- [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/shyryanw)
+ [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ryanrwinchester)
